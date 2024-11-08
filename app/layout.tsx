@@ -30,7 +30,7 @@ export default function RootLayout({
       >
         
         {children}
-        <div className="bg-green-400 rounded-[32]">© 2024 VilmaoTech | Minden jog fenntartva. All rights reserved.</div>
+        <div className="bg-green-400 rounded-[32px]">© 2024 VilmaoTech | Minden jog fenntartva. All rights reserved.</div>
       </body>
     </html>
   );
